@@ -13,6 +13,12 @@ relevant theory.
 * Aim for no more than 1,000 words plus images. References not included in count.
 Reference in any style, but be consistent. 
 
+Your Github main readme.md page must include:
+* A link to your working prototype,
+* Any additional promotional material you have developed, 
+* Process documentation. (Hyperlink to pages of the Wiki)
+* Promotional material may be embedded within your readme file. 
+
 EVERYTHING BELOW HERE IS TO STAY
 
 ***
