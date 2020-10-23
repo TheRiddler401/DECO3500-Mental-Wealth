@@ -12,3 +12,16 @@ relevant theory.
 * Include a list of who did what in the project.
 * Aim for no more than 1,000 words plus images. References not included in count.
 Reference in any style, but be consistent. 
+
+EVERYTHING BELOW HERE IS TO STAY
+
+***
+
+## Introduction to the Team
+
+We, Mental Wealth, are a group of 4 individuals currently studying a variety of different programs at university to Bachelor of Information Technology to the sciences. Although generally autonomous with work distribution, there are two central roles - group leader and group communicator. The two roles share the responsibilities of overseeing the general direction of the project and ensuring each member stays on track throughout the project. The tasks of group leader and group communicator were tasked to Michelle Kwok and Madeleine Duncan respectively.
+
+
+
+
+
