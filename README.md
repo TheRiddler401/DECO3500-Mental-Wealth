@@ -34,15 +34,28 @@ Being a group, once the significant domain for the group was chosen, each member
 ## Conference Poster/s
 
 INSERT EXHIBIT POSTER/S HERE WITH DESCRIPTION
+DECIDE ON:
+- 4 A4 poster for each of us,  or 
+- 1 A2 poster for all
 
 
 ## Prototype Links
 
-...
+**Samuel Riddell**
 
+STUFF
 
+**Elias Blanch** ...
 
+STUFF
 
+**Madeleine Duncan** ...
+
+STUFF
+
+**Michelle Kwok** ...
+
+STUFF
 
 
 
