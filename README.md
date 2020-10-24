@@ -35,7 +35,7 @@ Being a group, once the significant domain for the group was chosen, each member
 
 **Madeleine Duncan** ...
 
-**Michelle Kwok** ...
+**Michelle Kwok** investigated the role finance management plays in the dynamics of coparenting, from the mutual distrusts of separated parents to the financial stress generated that impact the mental wellbeing of children involved.
 
 ## Conference Poster/s
 
