@@ -10,7 +10,7 @@ Being a group, once the significant domain for the group was chosen, each member
 
 **Samuel Riddell (45320763)** chose to tackle how the relationship of close families, the 2 parents and the child, and extended families such as grandparents can be strengthen to improve the mental wellbeing of the child.
 
-**Michelle Kwok** investigated the role finance management plays in the dynamics of coparenting, from the mutual distrusts of separated parents to the financial stress generated that impact the mental wellbeing of children involved.
+**Michelle Kwok (45880164)** investigated the role finance management plays in the dynamics of coparenting, from the mutual distrusts of separated parents to the financial stress generated that impact the mental wellbeing of children involved.
 
 **Elias Blanch** [Extension on documentation]
 
@@ -34,9 +34,8 @@ For the final product, I designed and created an interactive prototype using Fig
 
 [Prototype](https://www.figma.com/proto/CxfkCOGT9lTkGJYkCtXjFX/DECO3500-Final-Product?node-id=5%3A671&scaling=min-zoom)
 
-**Michelle Kwok** ...
+**Michelle Kwok** 
 
-STUFF
 
 **Elias Blanch** [Extension on documentation]
 
