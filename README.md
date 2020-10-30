@@ -8,7 +8,7 @@ We, Mental Wealth, are a group of 4 individuals currently studying a variety of 
 
 Being a group, once the significant domain for the group was chosen, each member branched out into tackling different areas and subdomains. These subdomains are outlined below:
 
-**Samuel Riddell** chose to tackle how the relationship of close families, the 2 parents and the child, and extended families such as grandparents can be strengthen to improve the mental wellbeing of the child.
+**Samuel Riddell (45320763)** chose to tackle how the relationship of close families, the 2 parents and the child, and extended families such as grandparents can be strengthen to improve the mental wellbeing of the child.
 
 **Michelle Kwok** investigated the role finance management plays in the dynamics of coparenting, from the mutual distrusts of separated parents to the financial stress generated that impact the mental wellbeing of children involved.
 
