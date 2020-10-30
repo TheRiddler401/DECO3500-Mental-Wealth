@@ -1,26 +1,5 @@
 # DECO3500-Mental-Wealth
 
-DELETE LATER (COPIED FROM THE ASSESSMENT BRIEF)
-
-* Conference poster & Promotional Material: link to this up front so we see it first;
-* Link to the prototype, and instructions for how to deploy and use it, including any
-login credentials;
-* Summary: what is the problem/opportunity space and how did you address it?
-* Process: how did you tackle this problem? Use images and extended captions to
-explain the design process and how your ideas evolved. Mention any limitations and
-relevant theory.
-* Include a list of who did what in the project.
-* Aim for no more than 1,000 words plus images. References not included in count.
-Reference in any style, but be consistent. 
-
-Your Github main readme.md page must include:
-* A link to your working prototype,
-* Any additional promotional material you have developed, 
-* Process documentation. (Hyperlink to pages of the Wiki)
-* Promotional material may be embedded within your readme file. 
-
-EVERYTHING BELOW HERE IS TO STAY
-
 ***
 
 ## Introduction to the Team
@@ -39,7 +18,7 @@ Being a group, once the significant domain for the group was chosen, each member
 
 ## Conference Poster/s
 
-Using the below link, a copy of **Samuel Riddell's** individual A4 poster can be found. This outs the domain space, concept, and the process into making the product.
+Using the below link, a copy of **Samuel Riddell's** individual A4 poster can be found. This outlines the domain space, concept, and the process into constructing the final product.
 
 [Individual Poster](https://drive.google.com/file/d/10rYK3MHWJzFo8nz9rEKBY-gMgnjFkq5y/view?usp=sharing)
 
@@ -47,7 +26,10 @@ Using the below link, a copy of **Samuel Riddell's** individual A4 poster can be
 
 **Samuel Riddell**
 
-STUFF
+For the final product, I designed and created an interactive prototype using Figma. Using this, various buttons which link to different pages and functionalities of the website was created. There are 2 links below; one linking to the source Figma file and the other, the working prototype.
+
+[Source File](https://www.figma.com/file/CxfkCOGT9lTkGJYkCtXjFX/DECO3500-Final-Product?node-id=0%3A1)
+[Prototype](https://www.figma.com/proto/CxfkCOGT9lTkGJYkCtXjFX/DECO3500-Final-Product?node-id=5%3A671&scaling=min-zoom)
 
 **Michelle Kwok** ...
 
