@@ -18,6 +18,8 @@ Being a group, once the significant domain for the group was chosen, each member
 
 ## Conference Poster/s
 
+**Samuel Riddell**
+
 Using the below link, a copy of **Samuel Riddell's** individual A4 poster can be found. This outlines the domain space, concept, and the process into constructing the final product.
 
 [Individual Poster](https://drive.google.com/file/d/10rYK3MHWJzFo8nz9rEKBY-gMgnjFkq5y/view?usp=sharing)
@@ -29,6 +31,7 @@ Using the below link, a copy of **Samuel Riddell's** individual A4 poster can be
 For the final product, I designed and created an interactive prototype using Figma. Using this, various buttons which link to different pages and functionalities of the website was created. There are 2 links below; one linking to the source Figma file and the other, the working prototype.
 
 [Source File](https://www.figma.com/file/CxfkCOGT9lTkGJYkCtXjFX/DECO3500-Final-Product?node-id=0%3A1)
+
 [Prototype](https://www.figma.com/proto/CxfkCOGT9lTkGJYkCtXjFX/DECO3500-Final-Product?node-id=5%3A671&scaling=min-zoom)
 
 **Michelle Kwok** ...
