@@ -31,19 +31,17 @@ Being a group, once the significant domain for the group was chosen, each member
 
 **Samuel Riddell** chose to tackle how the relationship of close families, the 2 parents and the child, and extended families such as grandparents can be strengthen to improve the mental wellbeing of the child.
 
-**Elias Blanch** ...
+**Elias Blanch** [Extension on documentation]
 
-**Madeleine Duncan** ...
+**Madeleine Duncan** [Extension on documentation]
 
 **Michelle Kwok** investigated the role finance management plays in the dynamics of coparenting, from the mutual distrusts of separated parents to the financial stress generated that impact the mental wellbeing of children involved.
 
 ## Conference Poster/s
 
-INSERT EXHIBIT POSTER/S HERE WITH DESCRIPTION
-DECIDE ON:
-- 4 A4 poster for each of us,  or 
-- 1 A2 poster for all
+Using the below link, a copy of **Samuel Riddell's** individual A4 poster can be found. This outs the domain space, concept, and the process into making the product.
 
+[Individual Poster](https://drive.google.com/file/d/10rYK3MHWJzFo8nz9rEKBY-gMgnjFkq5y/view?usp=sharing)
 
 ## Prototype Links
 
@@ -51,18 +49,13 @@ DECIDE ON:
 
 STUFF
 
-**Elias Blanch** ...
-
-STUFF
-
-**Madeleine Duncan** ...
-
-STUFF
-
 **Michelle Kwok** ...
 
 STUFF
 
+**Elias Blanch** [Extension on documentation]
+
+**Madeleine Duncan** [Extension on documentation]
 
 
 
