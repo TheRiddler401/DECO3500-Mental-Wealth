@@ -60,6 +60,11 @@ My final prototype is a simulated experience via figma, where the user is placed
 
 ### **Elias Blanch** [Extension on documentation]
 
+For my final prototype I used a website builder to create a simulated type experience where the user is Ezra, a father of one child- Becca- who has split with his partner Claire. The family is trying to plan each others lives while ensuring that Becca is kept in the loop of information. The focus of th prototype is the ability to view the other parents or childs plans and thus schecdule around that.
+ 
+Prototype:
+https://jmurderbot.wixsite.com/whiteboardmw 
+
 ### **Madeleine Duncan** [Extension on documentation]
 The final prototype is
 
