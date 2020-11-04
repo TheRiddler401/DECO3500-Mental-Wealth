@@ -58,6 +58,8 @@ My final prototype is a simulated experience via figma, where the user is placed
 ### **Elias Blanch** [Extension on documentation]
 
 ### **Madeleine Duncan** [Extension on documentation]
+The final prototype is
+[Prototype] (https://xd.adobe.com/view/4151fab4-e19d-4fe9-443a-77c8bf937252-3760/) 
 
 
 
