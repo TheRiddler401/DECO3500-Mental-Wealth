@@ -35,6 +35,9 @@ As per the agreement of the group, I have created my own promotional poster of m
 
 ### **Madeleine Duncan** [Extension on documentation]
 
+Individual poster: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:7462a7d2-1c44-4474-9d7b-442ef06dae99
+
+
 
 ## Prototype Links
 
@@ -59,7 +62,8 @@ My final prototype is a simulated experience via figma, where the user is placed
 
 ### **Madeleine Duncan** [Extension on documentation]
 The final prototype is
-[Prototype] (https://xd.adobe.com/view/4151fab4-e19d-4fe9-443a-77c8bf937252-3760/) 
+
+Prototype: https://xd.adobe.com/view/4151fab4-e19d-4fe9-443a-77c8bf937252-3760/ 
 
 
 
