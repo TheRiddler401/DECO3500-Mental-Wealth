@@ -12,7 +12,7 @@ Being a group, once the significant domain for the group was chosen, each member
 
 **Michelle Kwok (45880164)** investigated the role finance management plays in the dynamics of coparenting, from the mutual distrusts of separated parents to the financial stress generated that impact the mental wellbeing of children involved.
 
-**Elias Blanch** [Extension on documentation]
+**Elias Blanch (45801534)** [Extension on documentation] decided to focus on the childrens/ offsprings wellbeing by providing an effective, cheap, no conflict ssystem that would ensure the offspring weren't the middle person passing on information from one parent to another. 
 
 **Madeleine Duncan** [Extension on documentation]
 
