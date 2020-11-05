@@ -34,9 +34,9 @@ As per the agreement of the group, I have created my own promotional poster of m
 ### **Elias Blanch** [Extension on documentation]
 
 ### **Madeleine Duncan** [Extension on documentation]
-
+Here is my individual poster on my application Coexist which outlines the problem space, domain, design concept as well as the design process
 Individual poster: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:7462a7d2-1c44-4474-9d7b-442ef06dae99
-
+Here is an additional promotional bussiness card: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:25834906-279d-4cc8-aaaa-d3870703983c
 
 
 ## Prototype Links
@@ -66,7 +66,7 @@ Prototype:
 https://jmurderbot.wixsite.com/whiteboardmw 
 
 ### **Madeleine Duncan** [Extension on documentation]
-The final prototype is
+The final prototype for my application is a simulation made on Adobe XD. It is from the perspective of a mother (Tricia) who has split from the father (Robert) of their two children (Jimmy and Jeanie). This prototype allows the user to experience the application from what would be the parents' user interface, and experience features such as calendar , lost property, financial request and messaging. For the purposes of this prototype, only the 8th and 9th of September have been set up.
 
 Prototype: https://xd.adobe.com/view/4151fab4-e19d-4fe9-443a-77c8bf937252-3760/ 
 
