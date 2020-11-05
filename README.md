@@ -14,7 +14,7 @@ Being a group, once the significant domain for the group was chosen, each member
 
 **Elias Blanch (45801534)** [Extension on documentation] decided to focus on the childrens/ offsprings wellbeing by providing an effective, cheap, no conflict ssystem that would ensure the offspring weren't the middle person passing on information from one parent to another. 
 
-**Madeleine Duncan** [Extension on documentation]
+**Madeleine Duncan (45329476)** [Extension on documentation] focussed on how to improve communication between separated families, specifically the parents, who have little to no communication, and thus improve the mental health of shared offspring as well as improve co-parenting.
 
 ## Conference Poster/s
 
