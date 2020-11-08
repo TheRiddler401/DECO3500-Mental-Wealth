@@ -34,8 +34,11 @@ As per the agreement of the group, I have created my own promotional poster of m
 ### **Elias Blanch** [Extension on documentation]
 Here is my own A4 poster as per a group agreement:
 This is the promotional video:https://youtu.be/3rO8_5i-AvY
+
 Parent Persona: https://drive.google.com/file/d/1R7jRwsOpBvAJoMwgWfvRtr-HDOCg8_6f/view?usp=sharing
+
 Child Persona: https://drive.google.com/file/d/1NM7frA1mgFRaAVqLRXyrreaSb9J-Yuft/view?usp=sharing
+
 
 ### **Madeleine Duncan** [Extension on documentation]
 Here is my individual poster on my application Coexist which outlines the problem space, domain, design concept as well as the design process
