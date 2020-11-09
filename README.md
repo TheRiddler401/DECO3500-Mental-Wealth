@@ -42,6 +42,8 @@ As per the agreement of the group, I have created my own promotional poster of m
 
 *  [Child Persona](https://drive.google.com/file/d/1NM7frA1mgFRaAVqLRXyrreaSb9J-Yuft/view?usp=sharing)
 
+* [Storyboard](https://github.com/eblanch202/deco3500-images-2020/blob/main/three/story%20board.png)
+
 
 ### **Madeleine Duncan** [Extension on documentation]
 Here is my individual poster on my application Coexist which outlines the problem space, domain, design concept as well as the design process
